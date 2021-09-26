@@ -16,7 +16,7 @@
             <ul id="menu">
                 <li id="logo">SYS Clients</li>
                 <li><a href="home.php" id="home">Home</a></li>
-                <li><a href="../scripts/login/logout.php" id="exit">Sair</a></li>
+                <li><a href="logout.php" id="exit">Sair</a></li>
             </ul>
         </nav>
     </header>
