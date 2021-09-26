@@ -28,14 +28,14 @@ Foram utilizadas as seguintes tecnologias:
 #Colar o projeto dentro da pasta htdocs do XAMPP no caminho: 
 C:\xampp\htdocs
 
-#Pressionar START no mysql e no apache
+```
+####Pressionar START no mysql e no apache
 <img src="https://i.imgur.com/lzyGoTB.png">
 
-#Acessar o endereço no navegador:
+####Acessar o endereço no navegador:
 http://localhost/projeto%20sys/index.php
 
 
-```
 
 ---
 
